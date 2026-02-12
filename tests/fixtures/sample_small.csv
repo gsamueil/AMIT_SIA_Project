@@ -1,0 +1,6 @@
+Ordered Item,SO Remaining Qty,Booked Date,Order Number,Country,System
+SKU-A,10,2021-01-05,ORD1,EGY,Standard
+SKU-A,0,2021-02-02,ORD2,EGY,Standard
+SKU-B,-5,2021-01-15,ORD3,SA,Heavy
+SKU-C,7,2021-03-01,ORD4,SA,Light
+SKU-A,12,2021-03-10,ORD5,EGY,Standard

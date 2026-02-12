@@ -1,2 +1,7 @@
 Data
 .env_SIA
+.env_SIA_fix
+outputs/
+__pycache__/
+.venv/
+~$SIA_ACROW_Final_Project_Presentation_Amit
