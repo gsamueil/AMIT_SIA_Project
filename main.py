@@ -931,7 +931,7 @@ def render_executive():
             fig = go.Figure()
             fig.add_trace(go.Bar(
                 x=top_countries['usd_amount'], y=top_countries['country'],
-                orientation='h', marker_color=[get_model_color(m) for m in df_plot_sorted['Method']]
+                orientation='h', marker_color=COLORS['gold']
             ))
             fig.update_layout(
                 title='Top Countries by Revenue (USD)',
